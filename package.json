@@ -1,6 +1,6 @@
 {
   "name": "react-component-create",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "react组件模板脚手架",
   "bin": {
     "react-component-create": "./bin/index.js"
@@ -22,7 +22,7 @@
     "type": "git",
     "url": "https://github.com/zgfang1993/react-component-create.git"
   },
-  "devDependencies": {
+  "dependencies": {
     "chalk": "^2.4.2",
     "commander": "^2.19.0",
     "download-git-repo": "^1.1.0",

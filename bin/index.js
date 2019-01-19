@@ -18,7 +18,6 @@ const downloadTemplate = async (filePath) => {
 		download('direct:https://github.com/zgfang1993/react-component-template.git', filePath, {
 			clone: true
 		}, function (err) {
-			console.log(err)
 			if (err) {
 				spinner.fail(err);
 				reject()
