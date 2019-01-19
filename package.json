@@ -1,23 +1,26 @@
 {
-  "name": "create-react-component",
+  "name": "react-component-create",
   "version": "1.0.0",
   "description": "react组件模板脚手架",
   "bin": {
-    "create-react-component": "./bin/index.js"
+    "react-component-create": "./bin/index.js"
   },
   "main": "bin/index.js",
-  "scripts": {
-  },
+  "scripts": {},
   "author": "zgfang1993",
   "license": "MIT",
-  "keywords": ["react", "component", "template"],
+  "keywords": [
+    "react",
+    "component",
+    "template"
+  ],
   "bugs": {
-    "url": "https://github.com/zgfang1993/create-react-component/issues"
+    "url": "https://github.com/zgfang1993/react-component-create/issues"
   },
-  "homepage": "https://github.com/zgfang1993/create-react-component.git#readme",
+  "homepage": "https://github.com/zgfang1993/react-component-create.git#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/zgfang1993/create-react-component.git"
+    "url": "https://github.com/zgfang1993/react-component-create.git"
   },
   "devDependencies": {
     "chalk": "^2.4.2",
